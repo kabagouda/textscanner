@@ -1,0 +1,17 @@
+{
+    "language": "Spanish",
+    "select_camera": "Haz una foto con la cámara",
+    "select_gallery": "Seleccionar imagen de la galería",
+    "cropper": "Cropper",
+    "resize": "Redimensionar",
+    "convertir": "Convertir",
+    "result": "Resultado",
+    "save_modify_text": "Guardar el texto modificado",
+    "text_modified": "Texto modificado",
+    "copiar_el_texto": "Copiar el texto",
+    "copy_to_clipboard": "Copiar al portapapeles",
+    "share": "Compartir",
+    "close": "Cerrar",
+    "texto_detectado": "'No detectamos ningún texto , Por favor, elija otra imagen que contenga texto'"
+
+}

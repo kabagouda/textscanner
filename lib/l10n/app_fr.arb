@@ -1,0 +1,16 @@
+{
+    "language": "French",
+    "select_camera" : "Prendre une photo avec la Camera",
+    "select_gallery" : "Sélectionner une image dans la galerie",
+    "cropper" : "Cropper",
+    "resize" : "Redimensionner",
+    "convert" : "Convertir",
+    "result" : "Resultat",
+    "save_modify_text" : "Sauvegarder le texte modifié",
+    "texte_modifié" : "Texte modifié",
+    "copy_the_text" : "Copier le texte",
+    "copy_to_clipboard" : "Copier dans le presse-papiers",
+    "share" : "Partager",
+    "close" : "Close",
+    "detected_text" : "Nous ne détectons aucun texte, veuillez choisir une autre image contenant du texte"
+}

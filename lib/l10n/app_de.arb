@@ -1,0 +1,16 @@
+{
+    "language": "Deutsch",
+    "select_camera": "Machen Sie ein Foto mit der Kamera",
+    "select_gallery": "Bild aus Galerie auswählen",
+    "cropper": "Zuschneider",
+    "resize": "Größe ändern",
+    "convert": "Konvertieren",
+    "result": "Ergebnis",
+    "save_modify_text": "Geänderten Text speichern",
+    "text_modified": "Text geändert",
+    "copy_the_text": "Kopiere den Text",
+    "copy_to_clipboard": "In die Zwischenablage kopieren",
+    "share": "Teilen",
+    "close": "Schließen",
+    "detected_text": "'Wir haben keinen Text erkannt, bitte wählen Sie ein anderes Bild mit Text'"
+}
